@@ -6,7 +6,7 @@ import "./Quotes.css";
 
 function Quotes() {
   const [quote, setQuote] = useState({
-    text: "Intha ulagam jeichuruven nu sonna kekathu. Jeichavan sonna kekum. Nee ethu pesurathu irunthalum jeichutu vanthu pesu.",
+    text: "Intha ulagam jeichuruven nu sonna kekathu. Jeichavan sonna kekum. Nee ethu pesuratha irunthalum jeichutu vanthu pesu.",
     author: "Sivakarthikeyan",
   });
 
