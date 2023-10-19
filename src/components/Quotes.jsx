@@ -6,8 +6,8 @@ import "./Quotes.css";
 
 function Quotes() {
   const [quote, setQuote] = useState({
-    text: "Intha ulagam jeichuruven nu sonna kekathu. Jeichavan sonna kekum. Nee ethu pesuratha irunthalum jeichutu vanthu pesu.",
-    author: "Sivakarthikeyan",
+    text: "Every decision for something is a decision against something else",
+    author: "Jonas(Dark)",
   });
 
   const [quotes, setQuotes] = useState([]);
